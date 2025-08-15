@@ -3,3 +3,5 @@
 
 Key Highlights : Single-page app with HTML, CSS, and JS. Supports MCQs, multi-select, and fill-in-the-blank. 15-second timer per question. Score tracking and result display. Dynamic question rendering. Replay option to retake the quiz.
 
+Check Out Here :
+ https://dhanashreehingnekar28.github.io/SCT_WD_3/
